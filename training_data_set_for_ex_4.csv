@@ -1,0 +1,11 @@
+Symptom1,Symptom2,Symptom3,Disease
+High,High,No,Yes
+High,High,Yes,Yes
+Low,High,No,No
+Medium,Low,No,No
+Low,Low,No,No
+Low,Low,Yes,Yes
+Medium,Low,Yes,No
+High,Medium,No,Yes
+High,Low,No,No
+Medium,Medium,No,No
